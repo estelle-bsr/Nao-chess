@@ -37,4 +37,5 @@ J'ai fait partie de l'équipe **Mouvement et Son**, où mon rôle principal éta
 - **Méthodologie** : Scrum
 
 
-**Attention** : Tout le code contenu dans ce dépôt est la propriété exclusive de BOISSERIE Estelle. Vous êtes libre de consulter et d'explorer le code, mais vous n'êtes pas autorisé à le copier, le modifier, ou l'utiliser à des fins commerciales sans mon autorisation explicite.
+## Attention : 
+Tout le code contenu dans ce dépôt est la propriété exclusive de BOISSERIE Estelle. Vous êtes libre de consulter et d'explorer le code, mais vous n'êtes pas autorisé à le copier, le modifier, ou l'utiliser à des fins commerciales **sans mon autorisation explicite**.
